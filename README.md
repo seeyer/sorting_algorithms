@@ -1,1 +1,6 @@
-readme
+Understanding Sorting Algorithms
+-------------------------------------
+Objectives:
+----------------------------
+
+
